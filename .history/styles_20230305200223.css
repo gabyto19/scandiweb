@@ -1,0 +1,12 @@
+nav {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  border-bottom: solid 1px gray;
+}
+
+* {
+  font-family: system-ui;
+}
